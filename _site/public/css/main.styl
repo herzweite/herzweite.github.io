@@ -1,0 +1,69 @@
+topnav-background-color =  #ac4142
+
+html
+  font-family "PT Sans", Helvetica, Arial, sans-serif
+
+.logo
+  font-size 5rem
+  font-weight 600
+  font-family serif
+  color snow
+  position absolute
+  left 1rem
+  top 0rem
+
+.sidebar
+  padding 0
+  color rgba(255,255,255,.5)
+  background-color #202020
+  a
+    color #fff
+
+.sidebar-about
+  h1
+    text-align left
+    color #fff
+    margin-top 0
+    font-family "Abril Fatface", serif
+    font-size 2.5rem
+    &:before
+      font-family serif
+      content '& '
+
+.sidebar-nav
+  background-color: darken(topnav-background-color, 10%)
+  height: 2rem
+  font-size: 1.4rem
+  text-align center
+  padding-left 0
+  list-style none
+
+.sidebar-nav-item
+  display inline-block
+  margin-right 5%
+  &.active
+    font-weight bold
+
+a.sidebar-nav-item:hover,
+a.sidebar-nav-item:focus
+  text-decoration underline
+
+.content
+  padding-bottom 2rem
+  margin 0 auto
+  max-width 48rem
+
+.theme-base-08
+  .sidebar
+    background-color topnav-background-color
+
+.theme-base-08 .content a,
+.theme-base-08 .related-posts li a:hover
+  color topnav-background-color 
+
+
+@media (min-width: 48rem)
+  html
+    font-size: 16px
+  .sidebar-about h1 
+    font-size: 4rem

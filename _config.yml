@@ -1,0 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Herzweite
+tagline:          'Es ist nicht immer leicht Mensch zu sein'
+description:      'Jeder von uns hat Augenblicke in Leben gehabt aufgrund derer man diesem Satz ohne weiteres zustimmen kann. Und es ist sehr wahrscheinlich, dass es weitere Erfahrungen geben wird, in welchen uns diese Wahrheit wieder ein Besuch abstatten wird.'
+url:              http://herzweite.de
+
+author:
+  name:           'Andrej Kralj'
+  url:            http://kralj.de
+
+paginate:         5
+
+# Custom vars
+version:          2.0.0
+
+github:
+  repo:           https://github.com/herzweite/herzweite

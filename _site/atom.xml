@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Herzweite</title>
+ <link href="http://herzweite.de/atom.xml" rel="self"/>
+ <link href="http://herzweite.de/"/>
+ <updated>2014-02-12T18:22:44+01:00</updated>
+ <id>http://herzweite.de</id>
+ <author>
+   <name>Andrej Kralj</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Achtsamkeit für alle</title>
+   <link href="http://herzweite.de/2014/02/02/Achsamkeit-fuer-alle/"/>
+   <updated>2014-02-02T00:00:00+01:00</updated>
+   <id>http://herzweite.de/2014/02/02/Achsamkeit-fuer-alle</id>
+   <content type="html">&lt;p&gt;kann jeder lernen&lt;/p&gt;
+
+&lt;h1&gt;grosse überschrift&lt;/h1&gt;
+
+&lt;h2&gt;mittelgrosse überschrift&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;aufzählung&lt;/li&gt;
+&lt;li&gt;aufzählung&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://kralj.de&quot;&gt;ein link&lt;/a&gt; to learn more.&lt;/p&gt;
+
+&lt;h3&gt;kleinere überschrift&lt;/h3&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Wie entwickle ich Mitgefühl?</title>
+   <link href="http://herzweite.de/2014/01/01/Wie-entwickle-ich-Mitgefuehl/"/>
+   <updated>2014-01-01T00:00:00+01:00</updated>
+   <id>http://herzweite.de/2014/01/01/Wie-entwickle-ich-Mitgefuehl</id>
+   <content type="html">&lt;p&gt;Hier mein test&lt;/p&gt;
+
+&lt;hr&gt;
+
+&lt;h3&gt;Sub-heading&lt;/h3&gt;
+
+&lt;p&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Praesent commodo cursus magna, vel scelerisque nisl consectetur et.&lt;/li&gt;
+&lt;li&gt;Donec id elit non mi porta gravida at eget metus.&lt;/li&gt;
+&lt;li&gt;Nulla vitae elit libero, a pharetra augue.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Vestibulum id ligula porta felis euismod semper.&lt;/li&gt;
+&lt;li&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.&lt;/li&gt;
+&lt;li&gt;Maecenas sed diam eget risus varius blandit sit amet non magna.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.&lt;/p&gt;
+
+&lt;hr&gt;
+</content>
+ </entry>
+ 
+
+</feed>
