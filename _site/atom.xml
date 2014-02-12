@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Herzweite</title>
+ <title>HerzWeite</title>
  <link href="http://herzweite.de/atom.xml" rel="self"/>
  <link href="http://herzweite.de/"/>
- <updated>2014-02-12T19:07:16+01:00</updated>
+ <updated>2014-02-12T19:49:15+01:00</updated>
  <id>http://herzweite.de</id>
  <author>
    <name>Andrej Kralj</name>

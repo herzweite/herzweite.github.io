@@ -1,7 +1,11 @@
+@import 'nib'
 topnav-background-color =  #ac4142
+topnav-nav-background-color = darken(topnav-background-color, 55%)
 
 html
   font-family "PT Sans", Helvetica, Arial, sans-serif
+  font-size: 16px
+
 
 .logo
   font-size 5rem
@@ -15,35 +19,40 @@ html
 .sidebar
   padding 0
   color rgba(255,255,255,.5)
-  background-color #202020
+  background: linear-gradient(top, topnav-background-color, topnav-nav-background-color)
   a
     color #fff
 
 .sidebar-about
   h1
-    text-align left
+    text-align center
     color #fff
     margin-top 0
     font-family "Abril Fatface", serif
     font-size 2.5rem
-    &:before
-      font-family serif
-      content '& '
+    //&:before
+    //font-family serif
+    //content '& '
 
 .sidebar-nav
-  background-color: darken(topnav-background-color, 10%)
-  height: 2rem
+  //background-color: topnav-nav-background-color
   font-size: 1.4rem
   text-align center
   padding-left 0
   list-style none
 
 .sidebar-nav-item
+  font-size: 1.1rem
   display inline-block
-  margin-right 5%
+  padding 0 3%
+  margin: 0.2rem 0
+  border-right: 1px solid snow
   &.active
     font-weight bold
 
+.sidebar-nav-item:last-child
+  border-right: none
+  
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus
   text-decoration underline
@@ -53,12 +62,7 @@ a.sidebar-nav-item:focus
   margin 0 auto
   max-width 48rem
 
-.theme-base-08
-  .sidebar
-    background-color topnav-background-color
-
-.theme-base-08 .content a,
-.theme-base-08 .related-posts li a:hover
+.content a, .related-posts li a:hover
   color topnav-background-color 
 
 
@@ -67,3 +71,5 @@ a.sidebar-nav-item:focus
     font-size: 16px
   .sidebar-about h1 
     font-size: 4rem
+  .sidebar-nav-item a
+    font-size: 1.5rem
