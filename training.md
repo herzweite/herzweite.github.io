@@ -8,7 +8,7 @@ title: Training
 
 Die Grundlage des Programms sind Methoden und Übungen die  von der  Wissenschaft  (Neurowissenschaft, 
 Medizin, Psychologie) mehrmals bestätigt und überprüft worden sind. Diese Maßnahmen fördern nachhaltig
-seelische und körperliche Gesundheit, Stressresilienz und soziale Kompetenz.
+seelische und körperliche Gesundheit, Stressresilienz und soziale Kompetenz. 
 
 Das Programm teilt sich in fünf  wöchentliche Einheiten die jeweils zwei Stunden dauern und aus dynamisch
 abwechselnden theoritischen und praktischen Ansätzen bestehen. Der praktische Teil umfasst Konzentrations- und
