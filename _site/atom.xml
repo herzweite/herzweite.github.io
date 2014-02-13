@@ -4,7 +4,7 @@
  <title>HerzWeite</title>
  <link href="http://herzweite.de/atom.xml" rel="self"/>
  <link href="http://herzweite.de/"/>
- <updated>2014-02-13T13:48:31+01:00</updated>
+ <updated>2014-02-13T14:12:30+01:00</updated>
  <id>http://herzweite.de</id>
  <author>
    <name>Andrej Kralj</name>
@@ -13,24 +13,16 @@
 
  
  <entry>
-   <title>Achtsamkeit für alle</title>
-   <link href="http://herzweite.de/2014/02/02/Achsamkeit-fuer-alle/"/>
+   <title>Es ist nicht immer leicht ein Mensch zu sein...</title>
+   <link href="http://herzweite.de/2014/02/02/Home-Text/"/>
    <updated>2014-02-02T00:00:00+01:00</updated>
-   <id>http://herzweite.de/2014/02/02/Achsamkeit-fuer-alle</id>
-   <content type="html">&lt;p&gt;kann jeder lernen&lt;/p&gt;
+   <id>http://herzweite.de/2014/02/02/Home-Text</id>
+   <content type="html">&lt;p&gt;Jeder von uns hat Augenblicke in Leben gehabt aufgrund derer man diesem Satz ohne weiteres zustimmen kann.
+Und es ist sehr wahrscheinlich, dass es weitere Erfahrungen geben wird, in welchen uns diese Wahrheit wieder ein Besuch abstatten wird.&lt;/p&gt;
 
-&lt;h1&gt;grosse überschrift&lt;/h1&gt;
+&lt;p&gt;Worauf es ankommt ist uns in der Fähigkeit zu stärken und zu üben, von diesen Lebenssituationen nicht überwältigt zu werden, sich denen doch öffnen zu können und, letztendlich, an denen zu wachsen.&lt;/p&gt;
 
-&lt;h2&gt;mittelgrosse überschrift&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;aufzählung&lt;/li&gt;
-&lt;li&gt;aufzählung&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://kralj.de&quot;&gt;ein link&lt;/a&gt; to learn more.&lt;/p&gt;
-
-&lt;h3&gt;kleinere überschrift&lt;/h3&gt;
+&lt;p&gt;In den letzten zwei Jahrzehnten werden MITGEFÜHL und ACHTSAMKEIT zunehmend von der Fachwelt und Forschung als wichtige Schutzfaktoren gegen Stress und Burn-out anerkannt. Dementsprechend, finden sie immer häufiger ihren Weg sowohl in die Berufswelt als auch in unseren Alltag.&lt;/p&gt;
 </content>
  </entry>
  
@@ -39,7 +31,7 @@
    <link href="http://herzweite.de/2014/01/01/Wie-entwickle-ich-Mitgefuehl/"/>
    <updated>2014-01-01T00:00:00+01:00</updated>
    <id>http://herzweite.de/2014/01/01/Wie-entwickle-ich-Mitgefuehl</id>
-   <content type="html">&lt;p&gt;Hier mein test&lt;/p&gt;
+   <content type="html">&lt;p&gt;Hier kommt mehr text dazu.&lt;/p&gt;
 
 &lt;hr&gt;
 
