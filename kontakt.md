@@ -2,20 +2,15 @@
 layout: page
 ---
 
-##Kontakt - Impressum
-DENIS BICANIC
-Im Weihertal 45
-D-93173 Wenzenbach
-fon: 0160 5286730
-e-mail: info@herzweite.de
+###Kontakt & Impressum
+DENIS BICANIC  
+Im Weihertal 45  
+D-93173 Wenzenbach  
+fon: 0160 5286730  
+e-mail: <info@herzweite.de>
 
 ###Erstellung & Betreuung der Website
-Andrej Kralj
-Internet: http://www.kralj.de/
-Email: mailme@kralj.de
-
-Die Website basiert auf Poole for Jekyll.
-
+####[Andrej Kralj](http://www.kralj.de/)  
 
 ###Haftungsausschluß
 1. Inhalt des Onlineangebots
