@@ -2,9 +2,13 @@
 topnav-background-color =  #ac4142
 topnav-nav-background-color = darken(topnav-background-color, 55%)
 
-html
-  font-family "PT Sans", Helvetica, Arial, sans-serif
+html, body
+  height: 100%
+  //font-family "PT Sans", Helvetica, Arial, sans-serif
+  //font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+  font-family "Abril Fatface", serif
   font-size: 16px
+
 
 
 .logo
@@ -64,6 +68,27 @@ a.sidebar-nav-item:focus
 
 .content a, .related-posts li a:hover
   color topnav-background-color 
+
+.page-wrap
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  margin: 0 auto -4em;
+
+footer
+  text-align: center
+  background-color: topnav-background-color
+  color: snow
+  padding-top: 1em
+  a 
+    color: snow;
+    text-decoration: none;
+
+
+footer, .push
+  height: 4em;
+  font-size: 1.1rem
+  clear: both;
 
 
 @media (min-width: 48rem)

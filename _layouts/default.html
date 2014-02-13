@@ -4,13 +4,14 @@
   {% include head.html %}
 
   <body class="theme-base-08">
-    {% include top-nav.html %}
-
-    <div class="content container">
-      {{ content }}
+    <div class="page-wrap">
+      {% include top-nav.html %}
+      <div class="content container"> {{ content }} </div>
+      <div class="push"></div>
     </div>
+    {% include footer.html %}
+
 
   <script>document.write('<script src="http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1"></' + 'script>')</script>
-
-  </body>
+</body>
 </html>
