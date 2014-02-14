@@ -6,6 +6,8 @@ title: Training
 #Mitgefühl für Sich... und Andere
 *Ein 5-Wochen Gruppentraining in Stressbewältigung und Burn-out Prävention*
 
+![Bild zu Training](/public/training.jpg)
+
 Die Grundlage des Programms sind Methoden und Übungen die  von der  Wissenschaft  (Neurowissenschaft, 
 Medizin, Psychologie) mehrmals bestätigt und überprüft worden sind. Diese Maßnahmen fördern nachhaltig
 seelische und körperliche Gesundheit, Stressresilienz und soziale Kompetenz. 

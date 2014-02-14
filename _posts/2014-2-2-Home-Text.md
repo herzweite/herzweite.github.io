@@ -3,6 +3,7 @@ layout: post
 title: Es ist nicht immer leicht ein Mensch zu sein...
 ---
 
+![Bild zur Home Page](/public/home.jpg)
 Jeder von uns hat Augenblicke in Leben gehabt aufgrund derer man diesem Satz ohne weiteres zustimmen kann.
 Und es ist sehr wahrscheinlich, dass es weitere Erfahrungen geben wird, in welchen uns diese Wahrheit wieder ein Besuch abstatten wird.
 

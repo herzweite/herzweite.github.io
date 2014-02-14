@@ -16,17 +16,13 @@ body {
 .sidebar {
   padding: 0;
   color: rgba(255,255,255,0.5);
-  background: -webkit-linear-gradient(top, #ac4142, #4d1d1e);
-  background: -moz-linear-gradient(top, #ac4142, #4d1d1e);
-  background: -o-linear-gradient(top, #ac4142, #4d1d1e);
-  background: -ms-linear-gradient(top, #ac4142, #4d1d1e);
-  background: linear-gradient(to bottom, #ac4142, #4d1d1e);
+  background: #ac4142;
 }
 .sidebar a {
   color: #fff;
 }
 .sidebar-about h1 {
-  text-align: center;
+  text-align: left;
   color: #fff;
   margin-top: 0;
   font-family: "Abril Fatface", serif;
@@ -58,7 +54,7 @@ a.sidebar-nav-item:focus {
 .content {
   padding-bottom: 2rem;
   margin: 0 auto;
-  max-width: 48rem;
+  max-width: 52em;
 }
 .content a,
 .related-posts li a:hover {
@@ -69,20 +65,39 @@ a.sidebar-nav-item:focus {
   margin: 0 auto -4em;
 }
 footer {
+  border-top: 1px solid #808080;
+  line-height: 3em;
   text-align: center;
-  background-color: #ac4142;
-  color: #fffffa;
-  padding-top: 1em;
+  background-color: #eee;
 }
-footer a {
-  color: #fffffa;
-  text-decoration: none;
+footer a,
+footer span {
+  padding: 0 0.5em;
+  color: #ac4142;
+  border-right: 1px solid #ac4142;
+}
+footer a:last-child {
+  border: 0;
 }
 footer,
 .push {
-  height: 4em;
+  height: 3em;
   font-size: 1.1rem;
   clear: both;
+}
+@media (max-width: 48rem) {
+  .push {
+    height: 0;
+  }
+  footer {
+    height: auto;
+    line-height: 1.5rem;
+  }
+  img {
+    max-width: 17em;
+    margin: 0 auto 1em auto;
+    float: none;
+  }
 }
 @media (min-width: 48rem) {
   html {

@@ -199,10 +199,12 @@ blockquote p:last-child {
     padding-left: 1.25rem;
   }
 }
-
+  
 img {
+  max-width: 22em;
   display: block;
-  margin: 0 0 1rem;
+  float: left;
+  margin: 0 2rem 1em 0;
   border-radius: 5px;
 }
 
