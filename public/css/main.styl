@@ -2,6 +2,14 @@
 topnav-background-color =  #ac4142
 topnav-nav-background-color = darken(topnav-background-color, 55%)
 
+divider()
+  content: "";
+  display: block;
+  margin: 1em 0;
+  height: 1px;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.0980392), rgba(0, 0, 0, 0.0980392), rgba(0, 0, 0, 0));
+
+
 html, body
   height: 100%
   //font-family "PT Sans", Helvetica, Arial, sans-serif
@@ -66,6 +74,9 @@ a.sidebar-nav-item:focus
 
 .content a, .related-posts li a:hover
   color topnav-background-color 
+
+.post:after
+  divider()
 
 .page-wrap
   min-height: 100%;

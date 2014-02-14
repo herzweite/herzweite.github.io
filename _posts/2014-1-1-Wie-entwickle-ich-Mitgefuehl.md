@@ -5,7 +5,6 @@ title: Wie entwickle ich Mitgefühl?
 
 Hier kommt mehr text dazu.
 
------
 
 ### Sub-heading
 
@@ -22,5 +21,3 @@ Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a p
 3. Maecenas sed diam eget risus varius blandit sit amet non magna.
 
 Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
-
------
