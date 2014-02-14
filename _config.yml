@@ -17,6 +17,8 @@ author:
 
 paginate:         50
 
+excerpt_separator: <!--more-->  # you can specify your own separator, of course.
+
 # Custom vars
 version:          0.2
 
