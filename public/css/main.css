@@ -1,13 +1,12 @@
 html,
 body {
   height: 100%;
-  font-family: "Abril Fatface", serif;
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
   font-size: 16px;
 }
 .logo {
   font-size: 5rem;
   font-weight: 600;
-  font-family: serif;
   color: #fffffa;
   position: absolute;
   left: 1rem;
@@ -21,6 +20,9 @@ body {
 .sidebar a {
   color: #fff;
 }
+.sidebar-about {
+  font-family: 'Playfair Display', Helvetica, Arial, sans-serif;
+}
 .sidebar-about h1 {
   text-align: center;
   color: #fff;
@@ -28,8 +30,10 @@ body {
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
   filter: alpha(opacity=70);
   margin-top: 0;
-  font-family: "Abril Fatface", serif;
   font-size: 2.5rem;
+}
+.sidebar-about h1 span {
+  font-size: 1.5em;
 }
 .sidebar-nav {
   font-size: 1.4rem;
