@@ -35,15 +35,13 @@ html, body
 
 .sidebar-about
   h1
-    text-align left
+    text-align center
     color #fff
     opacity: 0.7
     margin-top 0
     font-family "Abril Fatface", serif
     font-size 2.5rem
-    //&:before
-    //font-family serif
-    //content '& '
+
 
 .sidebar-nav
   //background-color: topnav-nav-background-color
@@ -69,7 +67,7 @@ a.sidebar-nav-item:focus
   text-decoration underline
 
 .container
-  padding-left: 0
+  padding: 0 0.5em
 
 .content
   padding-bottom 2rem
@@ -90,35 +88,35 @@ a.sidebar-nav-item:focus
 
 footer
   border-top: 1px solid #808080
-  line-height: 3em
   text-align: center
-  background-color: #eeeeee
+  background-color: lighten(topnav-background-color, 19%) //#eeeeee
+  color: snow 
 
   a, span
     padding: 0 0.5em
-    color: topnav-background-color
+    color: snow //topnav-background-color
     border-right: 1px solid topnav-background-color
   a:last-child
     border: 0
 
 footer, .push
-  height: 3em;
+  padding-top: 1em
+  height: 3.5em;
   font-size: 1.1rem
   clear: both;
-
 
 
 @media (max-width: 48em)
   .push
     height: 0
   footer
-    height: auto
-    line-height: 1.5rem
+    height: 4em
   img
-    max-width: 17em
+    max-width: 16em
     margin 0 auto 1em auto
     float: none
-
+  h1
+    font-size: 1.5rem
 
 
 @media (min-width: 48em)

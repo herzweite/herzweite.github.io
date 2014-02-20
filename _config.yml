@@ -15,7 +15,7 @@ author:
   name:           'Andrej Kralj'
   url:            http://kralj.de
 
-paginate:         50
+#paginate:         50
 
 excerpt_separator: <!--more-->  # you can specify your own separator, of course.
 
@@ -25,11 +25,3 @@ version:          0.2
 github:
   repo:           https://github.com/herzweite/herzweite
 
-prose:
-  siteurl: 'http://herzweite.github.io/'
-  media: 'media'
-  ignore:
-    - index.md
-    - _config.yml
-    - /_layouts
-    - /_includes

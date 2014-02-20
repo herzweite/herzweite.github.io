@@ -22,7 +22,7 @@ body {
   color: #fff;
 }
 .sidebar-about h1 {
-  text-align: left;
+  text-align: center;
   color: #fff;
   opacity: 0.7;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
@@ -55,7 +55,7 @@ a.sidebar-nav-item:focus {
   text-decoration: underline;
 }
 .container {
-  padding-left: 0;
+  padding: 0 0.5em;
 }
 .content {
   padding-bottom: 2rem;
@@ -86,14 +86,14 @@ a.sidebar-nav-item:focus {
 }
 footer {
   border-top: 1px solid #808080;
-  line-height: 3em;
   text-align: center;
-  background-color: #eee;
+  background-color: #c25f5f;
+  color: #fffffa;
 }
 footer a,
 footer span {
   padding: 0 0.5em;
-  color: #ac4142;
+  color: #fffffa;
   border-right: 1px solid #ac4142;
 }
 footer a:last-child {
@@ -101,7 +101,8 @@ footer a:last-child {
 }
 footer,
 .push {
-  height: 3em;
+  padding-top: 1em;
+  height: 3.5em;
   font-size: 1.1rem;
   clear: both;
 }
@@ -110,13 +111,15 @@ footer,
     height: 0;
   }
   footer {
-    height: auto;
-    line-height: 1.5rem;
+    height: 4em;
   }
   img {
-    max-width: 17em;
+    max-width: 16em;
     margin: 0 auto 1em auto;
     float: none;
+  }
+  h1 {
+    font-size: 1.5rem;
   }
 }
 @media (min-width: 48em) {

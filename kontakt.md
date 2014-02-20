@@ -10,7 +10,8 @@ fon: 0160 5286730
 e-mail: <info@herzweite.de>
 
 ###Erstellung & Betreuung der Website
-####[Andrej Kralj](http://www.kralj.de/)  
+####[Andrej Kralj](http://www.kralj.de/) 
+
 
 ###Haftungsausschluß
 1. Inhalt des Onlineangebots

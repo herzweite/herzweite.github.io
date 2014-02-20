@@ -3,9 +3,13 @@ layout: default
 ---
 
 <div class="page">
-{% if page.hideTitle != true %}
-  <h1 class="page-title">{{ page.title }}</h1>
-{% endif %}
-
   {{ content }}
 </div>
+
+
+
+{% comment %}
+  {% if page.hideTitle != true %}
+    <h1 class="page-title">{{ page.title }}</h1>
+  {% endif %}
+{% endcomment %}
