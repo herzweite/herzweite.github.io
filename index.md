@@ -3,7 +3,8 @@ layout: default
 title: Home
 ---
 
-#Es ist nicht immer leicht ein Mensch zu sein...
+<h1 class="space-below-1">Es ist nicht immer leicht ein Mensch zu sein...</h1>
+
 
 ![Bild zur Home Page](/images/home.jpg)
 Jeder von uns hat Augenblicke in Leben gehabt aufgrund derer man diesem Satz ohne weiteres zustimmen kann.
