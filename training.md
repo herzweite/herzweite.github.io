@@ -12,9 +12,9 @@ Die Grundlage des Programms sind Methoden und Übungen die  von der  Wissenschaf
 Medizin, Psychologie) mehrmals bestätigt und überprüft worden sind. Diese Maßnahmen fördern nachhaltig
 seelische und körperliche Gesundheit, Stressresilienz und soziale Kompetenz. 
 
-Das Programm teilt sich in fünf  wöchentliche Einheiten die jeweils zwei Stunden dauern und aus dynamisch
+Das Training teilt sich in fünf  wöchentliche Einheiten die jeweils zwei Stunden dauern und aus dynamisch
 abwechselnden theoritischen und praktischen Ansätzen bestehen. Der praktische Teil umfasst Konzentrations- und
 Visualisierungsübungen, Meditationen, Zweiergesprächen und Gruppenaustausch.
 
-In dem Training geht es darum konkrete Techniken und Methoden zu erlernen und einzuüben, die einem 
-stressgeladene Situationen besser bewältigen helfen sollen. 
+Mit seinem Inhalt, Zielen und Ergebnissen ist das Training gut geignet für Anwendung in Unternehmen und Institutionen die betrieblieches Gesundheitsmanagament und Gesundheitsförderung der eigenen MitarbeiterInnen als wichtige Bestandteile für erfolgreiche und nachhaltige Weiterentwicklung erkannt haben.
+
