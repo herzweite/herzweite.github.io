@@ -17,6 +17,4 @@ abwechselnden theoritischen und praktischen Ansätzen bestehen. Der praktische T
 Visualisierungsübungen, Meditationen, Zweiergesprächen und Gruppenaustausch.
 
 In dem Training geht es darum konkrete Techniken und Methoden zu erlernen und einzuüben, die einem 
-stressgeladene Situationen besser bewältigen helfen sollen. Daher ist wichtiger Bestandteil des Programms die
-Bereitschaft und Motivation der TeilnehmerInnen zwischen den wochentlichen Gruppensitzngen die vorgegebene
-Übungen selbstständig zu praktizieren und zwar mindestens 15 Minuten täglich.
+stressgeladene Situationen besser bewältigen helfen sollen. 
