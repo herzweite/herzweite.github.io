@@ -4,7 +4,7 @@ title: Training
 ---
 
 #Mitgefühl für sich... und andere
-*Ein 5-Wochen Gruppentraining in Stressbewältigung und Burn-out Prävention*
+*In-House Training in Stressbewältigung und Burn-out Prävention*
 
 ![Bild zu Training](/images/training.jpg)
 
