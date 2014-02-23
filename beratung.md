@@ -10,4 +10,5 @@ Beim Thema Stressbewältigung und Burn-out Prävention ist eine  weitere wichtig
 
 #Führungskräfte
 Ziel der Beratung auf der Führungsebene ist  zu ergründen welche Möglichkeiten und Wege es gibt um Mitgefühl und Warmherzigkeit als Perspektivewinkel und zusätzlicher Leitfaden in der Führung von Teams, Abteilungen und ganzen Organisationen zu verankern.
+
 "Die meisten Manager neigen dazu, ihre Stärke zu betonen. Doch wenn Sie Menschen beeinflussen wollen, müssen Sie nicht nur kompetent, sondern auch warmherzig sein." (Harvard Business Manager, September 2013)
