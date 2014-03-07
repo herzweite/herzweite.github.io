@@ -8,8 +8,8 @@ title: Training
 
 ![Bild zu Training](/images/training.jpg)
 
-Die Grundlage des Programms sind Methoden und Übungen die  von der  Wissenschaft  (Neurowissenschaft, 
-Medizin, Psychologie) mehrmals bestätigt und überprüft worden sind. Diese Maßnahmen fördern, durch Entwicklung von Mitgefühl und Achtsamkeit, nachhaltig seelische und körperliche Gesundheit, Stressresilienz und soziale Kompetenz. 
+Die Grundlage des Programms sind Methoden die  von der  Wissenschaft  (Neurowissenschaft, 
+Medizin, Psychologie) wiederholt bestätigt und überprüft worden sind. Die Trainingsübungen fördern, durch Entwicklung von Mitgefühl und Achtsamkeit, nachhaltig seelische und körperliche Gesundheit, Stressresilienz und soziale Kompetenz. 
 
 Das Training teilt sich in fünf  wöchentliche Einheiten die jeweils zwei Stunden dauern und aus dynamisch
 abwechselnden theoritischen und praktischen Ansätzen bestehen. Der praktische Teil umfasst Konzentrations- und
