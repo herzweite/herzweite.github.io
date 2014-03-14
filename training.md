@@ -13,7 +13,7 @@ Medizin, Psychologie) wiederholt geprüft und  als wirksam bestätigt worden sin
 
 Das Training teilt sich in fünf  wöchentliche Einheiten die jeweils zwei Stunden dauern und aus dynamisch
 abwechselnden theoritischen und praktischen Ansätzen bestehen. Der praktische Teil umfasst Konzentrations- und
-Visualisierungsübungen, Meditationen, Zweiergesprächen und Gruppenaustausch.
+Visualisierungsübungen, Meditationen, Zweiergespräche und Gruppenaustausch.
 
 Mit seinem Inhalt, Zielen und Ergebnissen ist das Training gut geignet für Anwendung in Unternehmen und Institutionen die betriebliches Gesundheitsmanagament und Gesundheitsförderung der eigenen MitarbeiterInnen als wichtige Bestandteile für erfolgreiche und nachhaltige Weiterentwicklung erkannt haben.
 
