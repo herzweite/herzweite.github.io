@@ -8,9 +8,9 @@ hideTitle: true
 
 ![Denis Bicanic](/images/denis.jpg)
 
-Ich bin in Deutschland  1973 geboren, als Kind von "Gastarbeitern" aus dem ehemaligen Jugoslawien. Die Grund- und Berufsschule habe ich in Kroatien besucht, danach habe ich in Slowenien an der Universität in Ljubljana studiert. In der Zeit meiner Schul- und Berufsbildung habe ich mich bei Amnesty International, Greenpeace und verschiedenen Friedensinitiativen engagiert.
+Ich bin 1973 in Deutschland geboren, als Kind von "Gastarbeitern" aus dem ehemaligen Jugoslawien. Die Grundschule und das Gymnasium habe ich in Kroatien besucht, danach habe ich in Slowenien an der Universität Ljubljana studiert. Während dieser Zeit habe ich mich bei Amnesty International, Greenpeace und verschiedenen Friedensinitiativen engagiert.
 
-Hauptberuflich war ich lange Zeit in der Nachkriegsarbeit des Roten Kreuzes und der UNO in Kroatien tätig. Beim Roten Kreuz war ich zuständig für die Koordination von humanitärer Hilfe und sozialen Programmen in der vom Krieg schwer betroffenen Region im Süden von Kroatien. Und bei dem Entwicklungsprogramm der UNO habe ich kleine Infrastruktur-, Weiterbildungs- und Wirtschaftsprojekte betreuet, darunter auch die Zusammenarbeit mit COCA-COLA an dem kroatischen Projekt der weltweiten Wasserschutz-Initiative "Every Drop Matters".
+Hauptberuflich war ich lange Zeit in der Nachkriegsarbeit des Roten Kreuzes und der UNO in Kroatien tätig. Beim Roten Kreuz war ich zuständig für die Koordination von humanitärer Hilfe und sozialen Programmen in der vom Krieg schwer betroffenen Region im Süden von Kroatien. Bei dem Entwicklungsprogramm der UNO habe ich kleine Infrastruktur-, Weiterbildungs- und Wirtschaftsprojekte betreut, darunter auch die Zusammenarbeit mit COCA-COLA an dem kroatischen Projekt der weltweiten Wasserschutz-Initiative "Every Drop Matters".
 
 Während dieser, oft auch stressvollen, Arbeit habe ich Achtsamkeit und Mitgefühl als Kraft- und Inspirationsquelle entdeckt und seit 2003 beschäftige ich mich intensiv mit deren Studium und Praxis. Dabei gehe ich mit besonderem Interesse der Frage nach wie man Mitgefühl, Wohlwollen und Achtsamkeit in die Arbeitswelt und Organisationskultur verankern kann.
 
