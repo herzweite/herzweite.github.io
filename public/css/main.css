@@ -38,6 +38,7 @@ h1.space-below-1 {
   background: #ac4142;
   position: relative;
   top: 0.06em;
+  padding: 0 0.15em;
 }
 .sidebar-about h1 i {
   font-weight: 300;
