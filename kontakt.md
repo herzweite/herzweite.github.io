@@ -1,7 +1,8 @@
 ---
 layout: page
+title: Kontakt
 ---
-![Bild zu Beratung](/images/kontakt1.jpg)
+![Bild zu Beratung](/images/kontakt.jpg)
 ###Kontakt & Impressum
 DENIS BICANIC  
 Im Weihertal 45  
