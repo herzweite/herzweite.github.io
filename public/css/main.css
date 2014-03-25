@@ -418,7 +418,7 @@ h1.space-below-1{padding-bottom:.5em}
 .sidebar-nav-item:last-child{border-right:none}
 a.sidebar-nav-item:hover,a.sidebar-nav-item:focus{text-decoration:underline}
 .container{padding:0 .5em}
-.content{padding-bottom:2rem;margin:0 auto;max-width:52em;}
+.content{padding-top:.4rem;padding-bottom:2rem;margin:0 auto;max-width:52em;}
 .content p{text-align:justify}
 .content a,.related-posts li a:hover{color:#ac4142}
 .post h1{font-size:1.6rem}
@@ -432,7 +432,8 @@ footer,.push{padding-top:1em;height:3.5em;font-size:1.1rem;clear:both}
 footer{height:4em}
 img{max-width:16em;margin:0 auto 1em auto;float:none}
 h1{font-size:1.5rem}
+.content{padding-top:0}
 }@media (min-width: 48em){html{font-size:16px}
-.sidebar-about h1{font-size:4rem}
+.sidebar-about h1{padding-bottom:.3em;font-size:4rem}
 .sidebar-nav-item a{font-size:1.5rem}
 }
