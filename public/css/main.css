@@ -406,11 +406,11 @@ a.pagination-item:hover {
 html,body{height:100%;font-family:"Open Sans",Helvetica,Arial,sans-serif;font-size:16px}
 h1,h2,h3{font-family:'Montserrat',Helvetica,Arial,sans-serif}
 h1.space-below-1{padding-bottom:.5em}
-.sidebar{padding:0;color:rgba(255,255,255,0.5);background:#fffffa;}
+.sidebar{padding:0;color:rgba(255,255,255,0.5);background:#ac4142;}
 .sidebar a{color:#fff}
 .sidebar-about{font-family:'Montserrat',Helvetica,Arial,sans-serif;}
-.sidebar-about h1{text-align:center;color:#fff;margin-top:0;font-size:2.5rem;background:#fffffa;color:#ac4142;font-weight:700;}
-.sidebar-about h1 span{font-size:2em;color:#fffffa;background:#ac4142;position:relative;top:.06em;padding:0 .15em}
+.sidebar-about h1{text-align:center;color:#fff;margin-top:0;font-size:2.5rem;color:#fffffa;font-weight:700;}
+.sidebar-about h1 span{font-size:2em;color:#fffffa;background:#ac4142;position:relative;top:.06em;padding:0 .15em;background:#fffffa;color:#ac4142}
 .sidebar-about h1 i{font-weight:400}
 .sidebar-nav{font-size:1.4rem;text-align:center;padding-left:0;list-style:none;background:#ac4142}
 .sidebar-nav-item{font-size:1.1rem;display:inline-block;padding:0 3%;margin:.2rem 0;border-right:1px solid #fffffa;}
