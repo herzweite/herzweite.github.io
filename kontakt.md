@@ -3,7 +3,7 @@ layout: page
 title: Kontakt
 ---
 ![Bild zu Beratung](/images/kontakt.jpg)
-###Kontakt & Impressum
+#Kontakt & Impressum
 DENIS BICANIC  
 Im Weihertal 45  
 D-93173 Wenzenbach  
