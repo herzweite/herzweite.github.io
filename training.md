@@ -3,7 +3,7 @@ layout: page
 title: Training
 ---
 
-#Achtsames Selbstmitgefühl 
+# Achtsames Selbstmitgefühl 
 
 
 ![Bild zu Training](/images/training.jpg)
