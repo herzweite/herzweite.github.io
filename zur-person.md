@@ -3,7 +3,7 @@ layout: page
 title: Zur Person
 hideTitle: true
 ---
-##Denis Bicanic
+## Denis Bicanic
 *Kultursoziologe und Philosoph (Diplom/M.A.)*
 
 ![Denis Bicanic](/images/denis.jpg)
