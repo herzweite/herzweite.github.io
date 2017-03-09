@@ -3,13 +3,13 @@ layout: page
 title: Training
 ---
 
-# Achtsames Selbstmitgefühl 
+# Achtsames Selbstmitgefühl / Mindful Self-Compassion (MSC)
 
 
 ![Bild zu Training](/images/training.jpg)
 
 Die Grundlage des Programms sind Methoden, die von der  Wissenschaft  (Neurowissenschaft, 
-Medizin, Psychologie) wiederholt geprüft und als wirksam bestätigt worden sind. Die Trainingsübungen fördern durch Entwicklung von Mitgefühl und Achtsamkeit nachhaltig seelische und körperliche Gesundheit, Stressresilienz und soziale Kompetenz. 
+Medizin, Psychologie) wiederholt geprüft und als wirksam bestätigt worden sind. MSC wurde von Kristin Neff (University of Austin) und Christopher Germer (Harvard Medical School) entwickelt. Die Trainingsübungen fördern durch Entwicklung von Mitgefühl und Achtsamkeit nachhaltig seelische und körperliche Gesundheit, Stressresilienz und soziale Kompetenz. 
 
 Das Training teilt sich in acht wöchentliche Einheiten auf, die jeweils drei Stunden dauern und aus dynamisch
 abwechselnden theoretischen und praktischen Ansätzen bestehen. Der praktische Teil umfasst Konzentrations- und
