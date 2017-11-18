@@ -1,14 +1,20 @@
 ---
 layout: page
-title: Beratung
+title: Termine
 ---
 
 ![Bild zu Beratung](/images/beratung.jpg)
 
-# Organisation
-Beim Thema Stressbewältigung und Burn-out Prävention ist eine weitere wichtige Frage was man auf der Organisations- oder Unternehmensebene tun kann, um negativen Entwicklungen und Einflüßen entgegen zu wirken. Ziel der Beratung ist es, Praktiken und Regeln zu identifizieren um eine Organisations- oder Unternehmenskultur zu entwickeln, die die Mitarbeiter und deren Stressresilienz fördert und unterstützt.
+# Frühjahr 2018 LANDSHUT
 
-# Führungskräfte
-Ziel der Beratung auf der Führungsebene ist gemeinsam zu ergründen, welche Möglichkeiten und Wege es gibt um Mitgefühl und Warmherzigkeit als zusätzliche Ressource und Leitfaden in der Führung von Teams, Abteilungen und ganzen Organisationen zu verankern.
+dienstags, 19:00-21:30
 
-"Die meisten Manager neigen dazu, ihre Stärke zu betonen. Doch wenn Sie Menschen beeinflussen wollen, müssen Sie nicht nur kompetent, sondern auch warmherzig sein." (Harvard Business Manager, September 2013)
+13.3., 20.3., 27.3., 3.4., 10.4., 17.4., 24.4. und 8.5.
+
+und Samstag, 14.4., 10:00-14:00
+
+Ort: HAUS INTERNATIONAL, Orbankai 3-4, Landshut
+
+Preis: 320 € (beim geringen Einkommen Ermäßigung möglich)
+
+
