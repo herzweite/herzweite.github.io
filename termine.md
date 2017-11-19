@@ -1,9 +1,8 @@
 
 ---
 layout: page
-title: termine
+title: Termine
 ---
-
 ![Bild zu Beratung](/images/beratung.jpg)
 
 # Frühjahr 2018 LANDSHUT
