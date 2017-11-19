@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Termine
+title: Beratung
 ---
 
 ![Bild zu Beratung](/images/beratung.jpg)
