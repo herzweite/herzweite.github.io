@@ -1,6 +1,7 @@
+
 ---
 layout: page
-title: Beratung
+title: termine
 ---
 
 ![Bild zu Beratung](/images/beratung.jpg)
@@ -16,5 +17,7 @@ und Samstag, 14.4., 10:00-14:00
 Ort: HAUS INTERNATIONAL, Orbankai 3-4, Landshut
 
 Preis: 320 € (Ermäßigung möglich beim geringen Einkommen)
+
+Anmeldung: info@herzweite.de
 
 
