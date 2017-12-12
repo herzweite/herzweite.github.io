@@ -5,8 +5,8 @@ title: Kontakt
 ![Bild zu Beratung](/images/kontakt.jpg)
 # Kontakt & Impressum
 DENIS BICANIC  
-Im Weihertal 45  
-D-93173 Wenzenbach  
+Hans-Leinberger-Str. 16  
+D-84034 Landshut  
 fon: 0160 5286730  
 e-mail: <info@herzweite.de>
 
