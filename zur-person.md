@@ -14,4 +14,4 @@ Hauptberuflich war ich lange Zeit in der Nachkriegsarbeit des Roten Kreuzes und 
 
 Während dieser Arbeit habe ich Achtsamkeit und Mitgefühl als Kraft- und Inspirationsquelle entdeckt und seit 2003 beschäftige ich mich intensiv mit deren Studium und Praxis. Unter anderem habe ich drei Jahre im Seminarhaus Engl gelebt und gearbeitet. Mit besonderem Interesse gehe ich der Frage nach wie man Mitgefühl, Wohlwollen und Achtsamkeit in die Arbeitswelt und Organisationskultur verankern kann.
 
-In 2014 und 2015 habe ich die Ausbildung zum MSC Lehrer (Mindful Self-Compassion, Trained Teacher) gemacht. Zur Zeit arbeite ich hauptberuflich als Asylsozialberater für das HAUS INTERNATIONAL in Landshut. 
+In 2014 und 2015 habe ich die Ausbildung zum MSC Lehrer (Mindful Self-Compassion, Trained Teacher) gemacht. Seit November 2014 arbeite ich hauptberuflich als Asylsozialberater für das HAUS INTERNATIONAL in Landshut. 
