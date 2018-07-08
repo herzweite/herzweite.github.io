@@ -4,13 +4,13 @@ title: Termine
 ---
 ![Bild zu Beratung](/images/beratung.jpg)
 
-# Frühjahr 2018 LANDSHUT
+# Herbst 2018 LANDSHUT
 
-dienstags, 19:00-21:30
+freitags, 17:00-19:30
 
-13.3., 20.3., 27.3., 3.4., 10.4., 17.4., 24.4. und 8.5.
+19.10., 26.10., 9.11., 16.11., 23.11., 30.11., und 7.12.
 
-und Samstag, 14.4., 10:00-14:00
+und samstags, 3.11. (17:00-19:30) und 17.11 (10:00-14:00)
 
 Ort: HAUS INTERNATIONAL, Orbankai 3-4, Landshut
 
