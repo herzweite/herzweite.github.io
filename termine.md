@@ -12,10 +12,12 @@ freitags, 17:00-19:30
 
 und samstags, 3.11. (17:00-19:30) und 17.11 (10:00-14:00)
 
+Teilnehmerzahl: max. 10
+
 Ort: HAUS INTERNATIONAL, Orbankai 3-4, Landshut
 
 Preis: 320 € (Ermäßigung möglich beim geringen Einkommen)
 
-Anmeldung: info@herzweite.de
+Information und Anmeldung: info@herzweite.de
 
 
