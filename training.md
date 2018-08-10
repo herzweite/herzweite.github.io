@@ -16,7 +16,9 @@ Imaginationsübungen, Meditationen, Zweiergespräche und Gruppenaustausch.
 
 Mit seinem Inhalt, den Zielen und Ergebnissen ist das Training gut geeignet auch zur Anwendung in Unternehmen und Institutionen die betriebliches Gesundheitsmanagament und Gesundheitsförderung der eigenen MitarbeiterInnen als wichtigen Bestandteil für erfolgreiche und nachhaltige Weiterentwicklung erkannt haben.
 
-Mehr Infos über MSC: www.msc-selbstmitgefuehl.org 
+Mehr Infos über MSC: 
+www.msc-selbstmitgefuehl.org 
+
 
 
 
