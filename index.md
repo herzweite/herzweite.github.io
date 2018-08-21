@@ -9,7 +9,7 @@ title: Home
 
 ![Bild zur Home Page](/images/home.jpg)
 Jeder von uns hat Augenblicke im Leben gehabt, aufgrund derer man diesem Satz ohne weiteres zustimmen kann.
-Und es ist sehr wahrscheinlich, dass es weitere Erfahrungen geben wird, bei denen uns diese Wahrheit wieder ein Besuch abstatten wird.
+Und es ist sehr wahrscheinlich, dass es weitere Erfahrungen geben wird, bei denen uns diese Wahrheit wieder einen Besuch abstatten wird.
 
 Worauf es ankommt ist uns in der Fähigkeit zu stärken und zu üben, von diesen Lebenssituationen nicht überwältigt zu werden, sich ihnen doch öffnen zu können, an ihnen zu wachsen und dadurch unsere Zuversicht und Lebensfreude zu vertiefen.
 
