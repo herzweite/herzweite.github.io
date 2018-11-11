@@ -4,20 +4,10 @@ title: Termine
 ---
 ![Bild zu Beratung](/images/beratung.jpg)
 
-# Herbst 2018 LANDSHUT
+# 2018 
 
-freitags, 17:00-19:30
+In diesem Jahr sind keine weitere Termine geplant.
 
-19.10., 26.10., 9.11., 16.11., 23.11., 30.11., und 7.12.
 
-und samstags, 3.11. (17:00-19:30) und 17.11 (14:00-18:00)
-
-Teilnehmerzahl: max. 10
-
-Ort: HAUS INTERNATIONAL, Orbankai 3-4, Landshut
-
-Preis: 320 € (Ermäßigung möglich beim geringen Einkommen)
-
-Information und Anmeldung: info@herzweite.de
 
 
