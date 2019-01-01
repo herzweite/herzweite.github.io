@@ -6,7 +6,7 @@ title: Termine
 
 # 2019 
 
-3.-8. März
+3.-8. März:
 Kursassistenz bei "MSC - Achtsames Selbstmitgefühl" (5-Tages-Intensiv-Seminar) von Jörg Mangold in Benediktushof, Holzkirchen.
 
 
