@@ -4,9 +4,15 @@ title: Termine
 ---
 ![Bild zu Beratung](/images/beratung.jpg)
 
-# 2018 
+# 2019 
 
-In diesem Jahr sind keine weitere Termine geplant.
+3.-8. März 
+Kursassistenz bei "MSC - Achtsames Selbstmitgefühl" (5-Tages-Intensiv-Seminar) von Jörg Mangold in Benediktushof, Holzkirchen.
+
+Wegen eigener Weiterbildung werde ich keinen 8-wochigen MSC-Kurs in Frühjahr in Landshut anbieten.
+
+
+
 
 
 
