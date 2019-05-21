@@ -11,4 +11,4 @@ Hauptberuflich habe ich inzwischen 13 Jahre in der Flüchtlings- und Entwicklung
 
 Seit Mai 2019 lebe und arbeite ich wieder im Seminarhaus Engl (Niederbayern). 
 
-In 2014 und 2015 habe ich die Ausbildung zum MSC Lehrer (Mindful Self-Compassion, Trained Teacher) gemacht. Seit November 2014 arbeite ich hauptberuflich als Asylsozialberater für das HAUS INTERNATIONAL in Landshut. 
+In 2014 und 2015 habe ich die Ausbildung zum MSC Lehrer (Mindful Self-Compassion, Trained Teacher) gemacht. 
