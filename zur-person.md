@@ -7,8 +7,8 @@
 
 Ich bin 1973 in Deutschland geboren, als Kind von "Gastarbeitern" aus dem ehemaligen Jugoslawien. Die Grundschule und das Gymnasium habe ich in Kroatien besucht, danach habe ich in Slowenien an der Universität Ljubljana studiert. Während dieser Zeit habe ich mich bei Amnesty International, Caritas und verschiedenen Friedensinitiativen engagiert.
 
-Hauptberuflich war ich lange Zeit in der Nachkriegsarbeit des Roten Kreuzes und der UNO in Kroatien tätig. Beim Roten Kreuz war ich zuständig für die Koordination von humanitärer Hilfe und sozialen Programmen in der vom Krieg schwer betroffenen Region im Süden von Kroatien während ich bei dem Entwicklungsprogramm der UNO kleine Infrastruktur-, Weiterbildungs- und Wirtschaftsprojekte betreut habe.  
+Hauptberuflich habe ich inzwischen 13 Jahre in der Flüchtlings- und Entwicklungsarbeit gesammelt. In dieser Zeit waren Achtsamkeit und Mitgefühl wichtige Kraft- und Inspirationsquellen und mit deren Studium und Praxis beschäftige ich mich seit 2003.
 
-Während dieser Arbeit habe ich Achtsamkeit und Mitgefühl als Kraft- und Inspirationsquelle entdeckt und seit 2003 beschäftige ich mich intensiv mit deren Studium und Praxis. Unter anderem habe ich drei Jahre im Seminarhaus Engl (Niederbayern) gelebt und gearbeitet. 
+Seit Mai 2019 lebe und arbeite ich wieder im Seminarhaus Engl (Niederbayern). 
 
 In 2014 und 2015 habe ich die Ausbildung zum MSC Lehrer (Mindful Self-Compassion, Trained Teacher) gemacht. Seit November 2014 arbeite ich hauptberuflich als Asylsozialberater für das HAUS INTERNATIONAL in Landshut. 
