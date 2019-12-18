@@ -4,9 +4,9 @@ title: Termine
 ---
 ![Bild zu Beratung](/images/beratung.jpg)
 
-# 2019 
+# 2020 
 
-3.-8. März:
+16.-21. Februar:
 Kursassistenz bei "MSC - Achtsames Selbstmitgefühl" (5-Tages-Intensiv-Seminar) von Jörg Mangold in Benediktushof, Holzkirchen.
 
 
