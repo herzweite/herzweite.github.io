@@ -4,12 +4,12 @@ title: Kontakt
 ---
 ![Bild zu Beratung](/images/kontakt.jpg)
 # Kontakt & Impressum
-DENIS BICANIC  
+DENIS BICANIC BRATSKI
 fon: 0160 5286730  
 e-mail: <info@herzweite.de>
 
 
-Inhaltlich Verantwortlicher gemäß TMG: Denis Bicanic
+Inhaltlich Verantwortlicher gemäß TMG: Denis Bicanic Bratski
 
 Erstellung & Betreuung der Website:  [Andrej Kralj](http://www.kralj.de/) 
 
