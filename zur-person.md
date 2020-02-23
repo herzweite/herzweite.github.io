@@ -1,6 +1,6 @@
  
 ---
-## Denis Bicanic
+## Denis Bicanic Bratski
 *Kultursoziologe und Philosoph (Diplom/M.A.)*
 
 ![Denis Bicanic](/images/denis.jpg)
