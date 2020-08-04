@@ -11,4 +11,5 @@ Hauptberuflich habe ich inzwischen 13 Jahre in der Flüchtlings- und Entwicklung
 
 In 2014 und 2015 habe ich die Ausbildung zum MSC Lehrer (Mindful Self-Compassion, Trained Teacher) gemacht. In den Jahren 2018-2019 habe ich das "Committed Practitioners Programme" bei Bodhi College absolviert.
 
-Seit Mai 2019 lebe und arbeite ich wieder im Seminarhaus Engl (Niederbayern). 
+
+
