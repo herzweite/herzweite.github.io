@@ -10,7 +10,7 @@ title: Termine
 Kursassistenz bei "MSC - Achtsames Selbstmitgefühl" (5-Tages-Intensiv-Seminar) von Jörg Mangold in Benediktushof, Holzkirchen.
 
 
-Wegen eigener Weiterbildung werde ich keinen 8-wöchigen MSC-Kurs im Frühjahr anbieten.
+Wegen der aktuellen Pandemie  ist bis Ende 2020 kein 8-wöchiger MSC-Kurs geplannt.
 
 
 
