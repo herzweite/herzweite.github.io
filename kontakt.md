@@ -4,7 +4,7 @@ title: Kontakt
 ---
 ![Bild zu Beratung](/images/kontakt.jpg)
 # Kontakt & Impressum
-DENIS BICANIC BRATSKI
+DENIS BIĆANIĆ BRATSKI
 fon: 0160 5286730  
 e-mail: <info@herzweite.de>
 
