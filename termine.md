@@ -13,7 +13,7 @@ Wegen der aktuellen Pandemie  ist bis Ende 2020 kein 8-wöchiger MSC-Kurs geplan
 24.-29. Januar:
 Kursassistenz bei "MSC - Achtsames Selbstmitgefühl" (5-Tages-Intensiv-Seminar) von Jörg Mangold in Benediktushof, Holzkirchen.
 
-Frühjahrskurs in Leipzig: Termin und Ort gebe ich Anfang Februar 2021 bekannt.
+8-wöchiger Frühjahrskurs in Leipzig: Termin und Ort gebe ich Anfang Februar 2021 bekannt.
 
 
 
