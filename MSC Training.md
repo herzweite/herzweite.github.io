@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MSC Training
+title: Training
 ---
 
 # Achtsames Selbstmitgefühl / Mindful Self-Compassion (MSC)
