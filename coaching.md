@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Termine
+title: Coaching
 ---
 ![Bild zu Beratung](/images/beratung.jpg)
 
