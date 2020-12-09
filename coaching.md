@@ -4,16 +4,15 @@ title: Coaching
 ---
 ![Bild zu Beratung](/images/beratung.jpg)
 
-# 2020 
+# Mit Gefühl im Gespräch 
 
-Wegen der aktuellen Pandemie  ist bis Ende 2020 kein 8-wöchiger MSC-Kurs geplannt.
+Möglicherweise spüren Sie deutlich das Bedürfnis, Achtsamkeit und Mitgefühl im Umgang mit sich selbst zu stärken. Zugleich kann es sein, dass Ihnen momentan ein Gruppenkontext, wie es das MSC-Training anbietet, nicht der passende zu sein scheint. 
 
-# 2021
+Falls Sie sich eher eine Einzelbegleitung statt Gruppentraining vorstellen können, werde ich Sie gerne durch Einzelgespräche und -begegnungen unterstützen.
 
-24.-29. Januar:
-Kursassistenz bei "MSC - Achtsames Selbstmitgefühl" (5-Tages-Intensiv-Seminar) von Jörg Mangold in Benediktushof, Holzkirchen.
+Nehmen Sie Kontakt mit mir per E-Mail oder Handy auf.
 
-8-wöchiger Frühjahrskurs in Leipzig: Termin und Ort gebe ich Anfang Februar 2021 bekannt.
+
 
 
 
