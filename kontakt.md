@@ -9,7 +9,8 @@ fon: 0160 5286730
 e-mail: <info@herzweite.de>
 
 
-Inhaltlich Verantwortlicher gemäß TMG: Denis Bićanić Bratski
+Inhaltlich Verantwortlicher gemäß TMG: 
+Denis Bićanić Bratski
 
 Erstellung & Betreuung der Website:  [Andrej Kralj](http://www.kralj.de/) 
 
