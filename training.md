@@ -15,7 +15,7 @@ Die Trainingsübungen fördern durch Entwicklung von Mitgefühl und Achtsamkeit 
 Imaginationsübungen, Meditationen, Zweiergespräche und Gruppenaustausch.
 
 KURSSTRUKTUR:
-8 wöchentlichen Einheiten (jeweils zweiundhalb Stunden) sowie ein "Retreat" (in Dauer von 4 Stunden).
+8 wöchentliche Einheiten (jeweils zweiundhalb Stunden) sowie ein "Retreat" (in Dauer von 4 Stunden).
 
 KOSTEN:
 350 € (Ratenzahlung und Ermässigung möglich)
@@ -24,7 +24,7 @@ ANMELDUNG:
 Wenn Sie Interesse an dem Kurs haben und ein kostenloses, unverbindliches Vorgespräch vereinbaren möchten oder weitere Informationen benötigen, erreichen Sie mich unter: info@herzweite.de und 0160/528-6730.
 
 TERMINE UND KURSORT:
-für den Frühjahrskurs 2021 in Leipzig werde ich Ende Februar bekannt geben.
+für den Frühjahrskurs 2021 in Leipzig werde ich sie Ende Februar bekannt geben.
 
 
 Mehr Infos über MSC: 
