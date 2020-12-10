@@ -14,7 +14,7 @@ Medizin, Psychologie) wiederholt geprüft und als wirksam bestätigt worden sind
 Die Trainingsübungen fördern durch Entwicklung von Mitgefühl und Achtsamkeit nachhaltig seelische und körperliche Gesundheit, Stressresilienz und soziale Kompetenz. Das Training teilt sich in acht wöchentliche Einheiten auf, die jeweils zweieinhalb Stunden umfassen (plus ein "Retreat" in Dauer von 4 Stunden) und aus abwechselnd theoretischen und praktischen Ansätzen bestehen. Der praktische Teil umfasst Konzentrations- und
 Imaginationsübungen, Meditationen, Zweiergespräche und Gruppenaustausch.
 
-# Kursstruktur
+Kursstruktur
 Der Kurs besteht aus 8 wöchentlichen Einheiten (jeweils zweiundhalb Stunden) sowie einem "Retreat" (in Dauer von 4 Stunden).
 
 # Kosten
