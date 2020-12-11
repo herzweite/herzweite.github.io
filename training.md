@@ -15,9 +15,9 @@ Die Trainingsübungen fördern durch Entwicklung von Mitgefühl und Achtsamkeit 
 Imaginationsübungen, Meditationen, Zweiergespräche und Gruppenaustausch.
 
 KURSSTRUKTUR:
-8 wöchentliche Einheiten (jeweils zweiundhalb Stunden) sowie ein "Retreat" (in Dauer von 4 Stunden).
+acht wöchentliche Einheiten (jeweils zweiundhalb Stunden) sowie ein "Retreat" (in Dauer von vier Stunden).
 
-TEILNEHMERZAHL: bis 10 Personen.
+TEILNEHMERZAHL: zehn.
 
 KOSTEN:
 350 € (Ratenzahlung und Ermässigung möglich).
