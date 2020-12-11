@@ -17,7 +17,7 @@ Imaginationsübungen, Meditationen, Zweiergespräche und Gruppenaustausch.
 KURSSTRUKTUR:
 8 wöchentliche Einheiten (jeweils zweiundhalb Stunden) sowie ein "Retreat" (in Dauer von 4 Stunden).
 
-TEILNEHMERZAHL: maximal 10.
+TEILNEHMERZAHL: bis 10 Personen.
 
 KOSTEN:
 350 € (Ratenzahlung und Ermässigung möglich).
