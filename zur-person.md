@@ -13,7 +13,7 @@ In 2014 und 2015 habe ich die Ausbildung zum MSC Lehrer (Mindful Self-Compassion
 
 Zuletzt habe ich 2020 die Weiterbildung zum Resilienzcoach beim Institut für Bildungscoaching in Leipzig abgeschlossen.
 
-Neben dem akademischen und beruflichen Hintegrund, baue ich meine Training- und Coachingtätigkeiten auf langjährige Meditationspraxis sowie auf eigene Erfahrungen mit Grenzsituationen und (Um)Brüchen im Leben.
+Neben dem akademischen und beruflichen Hintergrund, baue ich meine Training- und Coachingtätigkeiten auf langjährige Meditationspraxis sowie auf eigene Erfahrungen mit Grenzsituationen und (Um)Brüchen im Leben.
 
 
 
