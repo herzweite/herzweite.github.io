@@ -17,7 +17,7 @@ Imaginationsübungen, Meditationen, Zweiergespräche und Gruppenaustausch.
 KURSSTRUKTUR:
 acht wöchentliche Einheiten (jeweils zweiundhalb Stunden) sowie ein "Retreat" (in Dauer von vier Stunden).
 
-TEILNEHMERZAHL: zehn.
+TEILNEHMERZAHL: bis zwölf.
 
 KOSTEN:
 350 € (Ratenzahlung und Ermässigung möglich).
@@ -26,7 +26,7 @@ ANMELDUNG:
 Wenn Sie Interesse an dem Kurs haben und ein kostenloses, unverbindliches Vorgespräch vereinbaren möchten oder weitere Informationen benötigen, erreichen Sie mich unter: info@herzweite.de und 0160/528-6730.
 
 TERMINE UND KURSORT:
-der nächste Kurs in Leipzig wird stattfinden, sobald die Pandemiebedingungen dies ermöglichen - hoffentlich im Sommer/Herbst 2021.
+der nächste Kurs in Leipzig wird stattfinden, sobald die Pandemiebedingungen dies ermöglichen - hoffentlich im Herbst 2021.
 
 
 Mehr Infos über MSC: 
