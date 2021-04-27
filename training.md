@@ -30,7 +30,7 @@ der nächste Kurs in Leipzig wird stattfinden, sobald die Pandemiebedingungen di
 
 
 Mehr Infos über MSC: 
-www.msc-selbstmitgefuehl.org 
+https://www.msc-selbstmitgefuehl.org/
 
 
 
