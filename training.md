@@ -26,7 +26,7 @@ ANMELDUNG:
 Wenn Sie Interesse an dem Kurs haben und ein kostenloses, unverbindliches Vorgespräch vereinbaren möchten oder weitere Informationen benötigen, erreichen Sie mich unter: info@herzweite.de und 0160/528-6730.
 
 TERMINE UND KURSORT:
-der nächste Kurs in Leipzig wird stattfinden, sobald die Pandemiebedingungen dies ermöglichen - hoffentlich im Herbst 2021.
+der nächste Kurs in Leipzig wird voraussichtlich im Frühjahr 2022 stattfinden.
 
 
 Mehr Infos über MSC: 
