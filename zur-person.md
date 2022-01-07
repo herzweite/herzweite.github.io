@@ -9,9 +9,9 @@ Ich bin 1973 in Deutschland geboren, als Kind von "Gastarbeitern" aus dem ehemal
 
 Hauptberuflich habe ich inzwischen über 13 Jahre in der Flüchtlings- und Entwicklungsarbeit gesammelt. In dieser Zeit waren Achtsamkeit und Mitgefühl wichtige Kraft- und Inspirationsquellen und mit deren Studium und Praxis beschäftige ich mich seit 2003. 
 
-In 2014 und 2015 habe ich die Ausbildung zum MSC Lehrer (Mindful Self-Compassion, Trained Teacher) gemacht, danach in den Jahren 2018-2019 auch das "Committed Practitioners Programme" bei Bodhi College absolviert. 
+In 2014 und 2015 habe ich die Ausbildung zum MSC Lehrer (Mindful Self-Compassion, Trained Teacher) gemacht und in den Jahren danach das zweijährige "Committed Practitioners Programme" bei Bodhi College absolviert. Seit 2018 nehme ich beim Bodhi College auch an deren Ausbildung zum Meditationslehrer teil.
 
-Zuletzt habe ich 2020 die Weiterbildung zum Resilienzcoach beim Institut für Bildungscoaching in Leipzig abgeschlossen.
+Zuletzt habe ich 2020 die Weiterbildung zum Resilienzcoach beim Institut für Bildungscoaching in Leipzig abgeschlossen sowie 2021 die Ausbildung zum ehrenamtlichen Hospizbegleiter beim Hospiz-Verein Leipzig.
 
 Neben dem akademischen und beruflichen Hintergrund, baue ich meine Training- und Coachingtätigkeiten auf langjährige Meditationspraxis sowie auf eigene Erfahrungen mit Grenzsituationen und (Um)Brüchen im Leben.
 
