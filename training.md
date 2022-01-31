@@ -27,9 +27,9 @@ Wenn Sie Interesse an dem Kurs haben und ein kostenloses, unverbindliches Vorges
 
 TERMINE:
 Frühjahrskurs 2022 - freitags, 19:00-21:30
-6. Mai, 13. Mai, 20. Mai, 3. Juni, 10. Juni, 17. Juni, 24. Juni, 1. Juli                                                                                                        und Übungstag am Sonntag, dem 19. Juni, 15:00-19:00.
+ 6.	Mai, 13. Mai, 20. Mai, 3. Juni, 10. Juni, 17. Juni, 24. Juni, 1. Juli und Übungstag am Sonntag, dem 19. Juni, 15:00-19:00.                                                   
 
-ORT: Die VILLA e.V., Lessingstr. 7, 04109 Leipzig (plus Übungstag in "Shanta Yoga Studio"). Aktuell gillt die "2G Plus"-Regelung.
+ORT: VILLA e.V., Lessingstr. 7, 04109 Leipzig (plus Übungstag in "Shanta Yoga Studio"). Aktuell gillt die "2G Plus"-Regelung.
 
 Mehr Infos über MSC: 
 
