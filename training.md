@@ -32,7 +32,7 @@ KURSORT: Villa e.V., Lessingstraße 7, 04109 Leipzig (plus Retreat im Shanta Yog
 
 Mehr Infos über MSC: 
 
-https://www.msc-selbstmitgefuehl.org/
+https://www.msc-selbstmitgefuehl.org
 
 
 
