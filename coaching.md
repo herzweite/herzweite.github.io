@@ -10,7 +10,7 @@ Möglicherweise spüren Sie deutlich das Bedürfnis, Achtsamkeit und Mitgefühl 
 
 Falls Sie sich eher eine Einzelbegleitung statt Gruppentraining vorstellen können, werde ich Sie gerne durch Einzelgespräche und Coaching unterstützen.
 
-Nehmen Sie Kontakt mit mir per E-Mail oder Handy auf.
+Nehmen Sie Kontakt mit mir per E-Mail oder Handy auf. Das Erstgespräch, in dem wir gemeinsam der Frage nachgehen, ob Einzelcoaching für Sie hilfreich sein kann, ist kostenlos.
 
 
 
