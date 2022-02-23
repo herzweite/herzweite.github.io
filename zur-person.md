@@ -16,7 +16,7 @@ Zuletzt habe ich 2020 die Weiterbildung zum Resilienzcoach beim Institut für Bi
 Neben dem akademischen und beruflichen Hintergrund, baue ich meine Training- und Coachingtätigkeiten auf langjährige Meditationspraxis sowie auf eigene Erfahrungen mit Grenzsituationen und (Um)Brüchen im Leben.
 
 ## About me
-*M.A. in Sociology of Culture & Philosophy
+*M.A. in Sociology of Culture & Philosophy*
 
 I was born in Germany in 1973 as a child of immigrant workers from former Yugoslavia. I visited high school in Croatia and got my M.A. degree in sociology of culture and philosophy at the University of Ljubljana (Slovenia).
 
