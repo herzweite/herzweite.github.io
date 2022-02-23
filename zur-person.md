@@ -26,6 +26,8 @@ In 2015 I completed the Teacher Training for „Mindful Self-Compassion“ (MSC)
 
 In the last couple of years I completed the training for resilience coach at Institut for Bildungscoaching in Leipzig and the training for hospice volunteer with Hospiz-Verein Leipzig.
 
+In my coaching and training activities, beside my academic and professional background, I draw also from my meditation practice as well as from personal experiences with the disruptions life brings us. 
+
 
 
 
