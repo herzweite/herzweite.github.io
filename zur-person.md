@@ -30,4 +30,3 @@ In my coaching and training activities, beside my academic and professional back
 
 
 
-
