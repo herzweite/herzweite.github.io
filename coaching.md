@@ -14,7 +14,7 @@ We can strengthen our capacity not to be overwhelmed through these existential s
 
 If you feel like needing support in strenghtening these qualities, I would be glad to accompany you through coaching sessions, be it in presence if you live in Leipzig or online if you live somewhere else in Germany.
 
-You can contact me through e-mail or phone-call. In the first conversation we examine together if coaching is the right thing for you at this moment and is free of charge.
+You can contact me through e-mail or phone-call. In the first conversation (free of charge) we examine together if coaching is the right thing for you at this moment.
 
 # MitGefühl lernen 
 
