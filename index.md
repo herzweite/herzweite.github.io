@@ -15,6 +15,13 @@ Worauf es ankommt ist, uns in der Fähigkeit zu stärken und zu üben, von diese
 
 In den letzten zwei Jahrzehnten werden MITGEFÜHL und ACHTSAMKEIT zunehmend durch die Forschung bestätigt und von der Fachwelt als wichtige Schutzfaktoren gegen Stress und "Burn-Out" anerkannt. Dementsprechend finden sie immer häufiger ihren Weg sowohl in unseren Alltag als auch in die Berufswelt.
 
+NÄCHSTES IMPULSSEMINAR:
+
+SELBSTMITGEFÜHL ALS WEG ZU LEBENSMUT UND MITEINANDER am 6. April 2022, 17:30 - 18:45
+"Die Villa" e.V., Seminarraum (3. 0G), Lessingstr. 7, 04109 Leipzig
+Eintritt frei (begrenzte Teilnehmerzahl)
+Anmeldung per E-Mail erforderlich: info@herzweite.de
+
 
 
 
