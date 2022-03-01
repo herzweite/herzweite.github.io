@@ -17,7 +17,8 @@ In den letzten zwei Jahrzehnten werden MITGEFÜHL und ACHTSAMKEIT zunehmend durc
 
 NÄCHSTES IMPULSSEMINAR:
 
-SELBSTMITGEFÜHL ALS WEG ZU LEBENSMUT UND MITEINANDER am 6. April 2022, 17:30 - 18:45
+SELBSTMITGEFÜHL ALS WEG ZU LEBENSMUT UND MITEINANDER
+am 6. April 2022, 17:30 - 18:45
 "Die Villa" e.V., Seminarraum (3. 0G), Lessingstr. 7, 04109 Leipzig
 Eintritt frei (begrenzte Teilnehmerzahl)
 Anmeldung per E-Mail erforderlich: info@herzweite.de
