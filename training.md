@@ -34,7 +34,7 @@ ORT: VILLA e.V., Lessingstr. 7, 04109 Leipzig (plus Übungstag im "Shanta Yoga S
 
 Mehr Infos über MSC: 
 
-https://www.msc-selbstmitgefuehl.org
+https://www.msc-selbstmitgefuehl.org/
 
 
 
