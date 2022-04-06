@@ -17,8 +17,7 @@ Imaginationsübungen, Meditationen, Zweiergespräche und Gruppenaustausch.
 KURSSTRUKTUR:
 acht wöchentliche Einheiten (jeweils zweiundhalb Stunden) sowie ein Übungstag (in Dauer von vier Stunden).
 
-TEILNEHMERZAHL: acht 
-.
+TEILNEHMERZAHL: acht.
 
 KOSTEN:
 350 € (Ratenzahlung und Ermäßigung möglich).
