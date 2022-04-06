@@ -17,12 +17,13 @@ Imaginationsübungen, Meditationen, Zweiergespräche und Gruppenaustausch.
 KURSSTRUKTUR:
 acht wöchentliche Einheiten (jeweils zweiundhalb Stunden) sowie ein Übungstag (in Dauer von vier Stunden).
 
-TEILNEHMERZAHL: acht (aktuell begrenzt wegen Corona-Auflagen).
+TEILNEHMERZAHL: acht 
+.
 
 KOSTEN:
 350 € (Ratenzahlung und Ermäßigung möglich).
 
-ANMELDUNG:
+ANMELDUNG (bis 20. April):
 Wenn Sie Interesse an dem Kurs haben und ein kostenloses, unverbindliches Vorgespräch vereinbaren möchten oder weitere Informationen benötigen, erreichen Sie mich unter: info@herzweite.de und 0160/528-6730.
 
 TERMINE:
