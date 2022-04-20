@@ -27,6 +27,7 @@ Wenn Sie Interesse an dem Kurs haben und ein kostenloses, unverbindliches Vorges
 
 TERMINE 2022:
 Der Herbstkurs wird mittwochs von 18:30 bis 21:00 stattfinden und zwar am:
+
 05.10., 12.10., 19.10., 26.10., 02.11., 09.11., 23.11. und 30.11. 
 Der Termin für den Übungstag steht noch aus.
 
