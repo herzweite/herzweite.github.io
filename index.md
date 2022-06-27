@@ -20,6 +20,7 @@ In den letzten zwei Jahrzehnten werden MITGEFÜHL und ACHTSAMKEIT zunehmend durc
 Nächste Veranstaltung:
 
 "Achtsames Selbstmitgefühl - eine Einführung"
+
 14. September 2022, 18:30 - 19:45
 "Die Villa", (Beratungsraum, 3. OG), Lessingstraße 7, 04109 Leipzig
 
