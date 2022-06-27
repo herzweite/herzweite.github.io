@@ -21,7 +21,7 @@ Nächste Veranstaltung:
 
 "Achtsames Selbstmitgefühl - eine Einführung"
 
-14. September 2022, 18:30 - 19:45
+Mittwoch, 14. September 2022, 18:30 - 19:45
 "Die Villa", (Beratungsraum, 3. OG), Lessingstraße 7, 04109 Leipzig
 
 Eintritt frei - Anmeldung erwünscht: info@herzweite.de
