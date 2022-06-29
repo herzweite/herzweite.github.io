@@ -17,7 +17,7 @@ In den letzten zwei Jahrzehnten werden MITGEFÜHL und ACHTSAMKEIT zunehmend durc
 
 ______________________________________________________________________________________________________________________________________________________________
 
-Nächste Veranstaltung:
+NÄCHSTE VERANSTALTUNG:
 
 "Achtsames Selbstmitgefühl - eine Einführung"
 
