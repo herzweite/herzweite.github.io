@@ -24,7 +24,7 @@ NÄCHSTE VERANSTALTUNG:
 Mittwoch, 14. September 2022, 18:30.
 "Die Villa", (Beratungsraum, 3. OG), Lessingstraße 7, 04109 Leipzig
 
-Eintritt frei - wegen begrenzten TeilnehmerInnenzahl Anmeldung erforderlich: info@herzweite.de
+Eintritt frei - wegen begrenzter TeilnehmerInnenzahl Anmeldung erforderlich: info@herzweite.de
 
 
 
