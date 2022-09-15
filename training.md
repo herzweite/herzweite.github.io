@@ -25,15 +25,6 @@ KOSTEN:
 ANMELDUNG:
 Wenn Sie Interesse an dem Kurs haben und ein kostenloses, unverbindliches Vorgespräch vereinbaren möchten oder weitere Informationen benötigen, erreichen Sie mich unter: info@herzweite.de und 0160/528-6730.
 
-TERMINE 2022:
-Der Herbstkurs wird mittwochs von 18:30 bis 21:00 stattfinden und zwar am:
-
-05.10., 12.10., 19.10., 26.10., 02.11., 09.11., 23.11. und 30.11. 
-
-Der zusätzlicher Übungstag findet am 05.11. von 15:00 bis 19:00 statt.
-
-ORT: VILLA e.V. (Beratungsraum), Lessingstr. 7, 04109 Leipzig (plus Übungstag im "Shanta Yoga Studio").
-
 Mehr Infos über MSC: 
 
 https://www.msc-selbstmitgefuehl.org/
