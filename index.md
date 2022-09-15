@@ -15,16 +15,7 @@ Worauf es ankommt ist, uns in der Fähigkeit zu stärken und zu üben, von diese
 
 In den letzten zwei Jahrzehnten werden MITGEFÜHL und ACHTSAMKEIT zunehmend durch die Forschung bestätigt und von der Fachwelt als wichtige Schutzfaktoren gegen Stress und "Burn-Out" anerkannt. Dementsprechend finden sie immer häufiger ihren Weg sowohl in unseren Alltag als auch in die Berufswelt.
 
-______________________________________________________________________________________________________________________________________________________________
 
-NÄCHSTE VERANSTALTUNG:
-
-"Achtsames Selbstmitgefühl - eine Einführung"
-
-Mittwoch, 14. September 2022, 18:30.
-"Die Villa", (Beratungsraum, 3. OG), Lessingstraße 7, 04109 Leipzig
-
-Eintritt frei - wegen begrenzter TeilnehmerInnenzahl Anmeldung erforderlich: info@herzweite.de
 
 
 
