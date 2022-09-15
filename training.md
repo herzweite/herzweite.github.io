@@ -9,6 +9,7 @@ title: Training
 ![Bild zu Training](/images/training.jpg)
 
 
+
 INHOUSE-KURS FÜR ARBEITNEHMER/INNEN IM GESUNDHEITS- UND SOZIALWESEN
 
 Der 6-teilige Kurs „Achtsames Selbstmitgefühl“ ist ein Training zur Burnout-Prävention und Persönlichkeitsentwicklung. Vor allem geht es dabei darum, emotionale Ressourcen aufzubauen und die Fähigkeiten von Achtsamkeit und Selbstmitgefühl zu entwickeln, um schwierigen Momenten und Situationen in der Arbeit und im Leben mit Wohlwollen, Fürsorge und Verständnis begegnen und ins Leben integrieren zu können.
