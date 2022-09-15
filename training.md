@@ -17,11 +17,11 @@ Dieses kompakte Kursformat wurde im Jahr 2019 von Kristin Neff (University of Te
 
 Der Inhouse-Kurs besteht aus insgesamt 6 wöchentlichen Einheiten à 90 Minuten und beinhaltet:
 
-•	kurze Impulsvorträge über Achtsamkeit und Selbstfürsorge,
-•	Achtsamkeits- und Mitgefühlsübungen,
-•	Selbsterfahrungsübungen,
-•	Austausch in Paaren/in der Gruppe sowie
-•	Übungen für zu Hause.
+-	kurze Impulsvorträge über Achtsamkeit und Selbstfürsorge,
+-	Achtsamkeits- und Mitgefühlsübungen,
+-	Selbsterfahrungsübungen,
+-	Austausch in Paaren/in der Gruppe sowie
+- Übungen für zu Hause.
 
 Die empfohlene Teilnehmerzahl ist maximal 8.
 
