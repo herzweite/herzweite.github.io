@@ -3,7 +3,7 @@ layout: page
 title: Training
 ---
 
-# Achtsames Selbstmitgefühl / Mindful Self-Compassion (MSC)
+# Selbstfürsorge durch Achtsamkeit und Mitgefühl
 
 
 ![Bild zu Training](/images/training.jpg)
