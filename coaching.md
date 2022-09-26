@@ -6,7 +6,7 @@ title: Coaching
 
 # MitGefühl lernen 
 
-Möglicherweise spüren Sie deutlich das Bedürfnis, Achtsamkeit und Mitgefühl im Umgang mit sich selbst zu stärken. Zugleich kann es sein, dass Ihnen momentan ein Gruppenkontext, wie es das MSC-Training anbietet, nicht der passende zu sein scheint. 
+Möglicherweise spüren Sie deutlich das Bedürfnis, Achtsamkeit und Mitgefühl im Umgang mit sich selbst zu stärken. Zugleich kann es sein, dass Ihnen momentan ein Gruppenkontext, um dies zu tun, nicht der passende zu sein scheint. 
 
 Falls Sie sich eher eine Einzelbegleitung statt Gruppentraining vorstellen können, werde ich Sie gerne durch Einzelgespräche und Coaching unterstützen.
 
