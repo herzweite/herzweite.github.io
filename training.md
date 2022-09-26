@@ -31,11 +31,11 @@ Die Kosten des Kurses betragen 150 € pro TeilnehmerIn (plus ggf. Anreisekosten
 
 REFERENZEN:
 
-Gehörlosenzentrum Zwickau
-SYNLAB Augsburg
-Hospizverein Landshut
-Haus International - Landshut
-Bayerisches Rotes Kreuz
+- Gehörlosenzentrum Zwickau
+- SYNLAB Augsburg
+- Hospizverein Landshut
+- Haus International - Landshut
+- Bayerisches Rotes Kreuz
 _______________________________________________________________________________________________________________________________________________________________________
 
 Mehr Infos über MSC: 
