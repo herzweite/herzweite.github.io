@@ -31,6 +31,7 @@ Die Kosten des Kurses betragen 150 € pro TeilnehmerIn (plus ggf. Anreisekosten
 
 
 
+
 REFERENZEN:
 
 - Gehörlosenzentrum Zwickau
