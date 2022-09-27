@@ -30,6 +30,7 @@ Die empfohlene Teilnehmerzahl ist maximal 8.
 Die Kosten des Kurses betragen 150 € pro TeilnehmerIn (plus ggf. Anreisekosten).
 
 
+
 REFERENZEN:
 
 - Gehörlosenzentrum Zwickau
@@ -37,9 +38,10 @@ REFERENZEN:
 - Hospizverein Landshut
 - Haus International - Landshut
 - Bayerisches Rotes Kreuz
+
 _______________________________________________________________________________________________________________________________________________________________________
 
-Mehr Infos über MSC: 
+Mehr Infos über "Achtsames Selbstmitgefühl": 
 
 https://www.msc-selbstmitgefuehl.org/
 
