@@ -38,7 +38,7 @@ REFERENZEN:
 - SYNLAB Augsburg
 - Hospizverein Landshut
 - Haus International - Landshut
-- Bayerisches Rotes Kreuz
+- Bayerisches Rotes Kreuz, Senioren- und Pflegeheime
 
 _______________________________________________________________________________________________________________________________________________________________________
 
