@@ -38,7 +38,11 @@ REFERENZEN:
 - SYNLAB Augsburg
 - Hospizverein Landshut
 - Haus International - Landshut
-- Bayerisches Rotes Kreuz, Senioren- und Pflegeheime
+- BAYERISCHES ROTES KREUZ – Seniorenwohn- und Pflegeheim Ergoldsbach
+- BAYERISCHES ROTES KREUZ – Seniorenzentrum Woffenbach
+- BAYERISCHES ROTES KREUZ – Seniorenwohn- und Pflegeheim Neumarkt
+- BAYERISCHES ROTES KREUZ – Seniorenheim Geisenhausen
+
 
 _______________________________________________________________________________________________________________________________________________________________________
 
