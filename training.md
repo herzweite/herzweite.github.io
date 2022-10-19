@@ -39,9 +39,9 @@ REFERENZEN:
 - Hospizverein Landshut
 - Haus International - Landshut
 - BAYERISCHES ROTES KREUZ – Seniorenwohn- und Pflegeheim Ergoldsbach
-- BAYERISCHES ROTES KREUZ – Seniorenzentrum Woffenbach
-- BAYERISCHES ROTES KREUZ – Seniorenwohn- und Pflegeheim Neumarkt
-- BAYERISCHES ROTES KREUZ – Seniorenheim Geisenhausen
+- BRK – Seniorenzentrum Woffenbach
+- BRK – Seniorenwohn- und Pflegeheim Neumarkt
+- BRK – Seniorenheim Geisenhausen
 
 
 _______________________________________________________________________________________________________________________________________________________________________
