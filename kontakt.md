@@ -7,7 +7,7 @@ title: Kontakt
 DENIS BIĆANIĆ BRATSKI
 
 
-Leipzig
+Raum Rosenheim
 
 fon: 0160 5286730  
 e-mail: <info@herzweite.de>
