@@ -7,7 +7,7 @@
 
 Ich bin 1973 in Deutschland geboren, als Kind von "Gastarbeitern" aus dem ehemaligen Jugoslawien. Die Grundschule und das Gymnasium habe ich in Kroatien besucht, danach habe ich in Slowenien an der Universität Ljubljana studiert. 
 
-Hauptberuflich habe ich inzwischen über 14 Jahre in der Flüchtlings- und Entwicklungsarbeit gesammelt. In dieser Zeit waren Achtsamkeit und Mitgefühl wichtige Kraft- und Inspirationsquellen und mit deren Studium und Praxis beschäftige ich mich seit 2003. 
+Hauptberuflich sammele ich inzwischen über 20 Jahre Erfahrungen im sozialen und humanitären Bereich. In dieser Zeit waren Achtsamkeit und Mitgefühl wichtige Kraft- und Inspirationsquellen und mit deren Studium und Praxis beschäftige ich mich seit 2003. 
 
 In 2014 und 2015 habe ich die Ausbildung zum MSC Lehrer (Mindful Self-Compassion, Trained Teacher) gemacht. In den Jahren danach habe ich das zweijährige "Committed Practitioners Programme" am Bodhi College absolviert.  
 
@@ -20,7 +20,7 @@ Neben dem akademischen und beruflichen Hintergrund, baue ich meine Training- und
 
 I was born in Germany in 1973 as a child of immigrant workers from former Yugoslavia. I visited high school in Croatia and got my M.A. degree in sociology of culture and philosophy at the University of Ljubljana (Slovenia).
 
-Regarding my professional path, I have collected 14 years of experience in the field of humanitarian and development issues. During these years, mindfulness and compassion  have been crucial sources of inspiration and resilience and I have been committed to their study and practice since 2003.
+Regarding my professional path, I have collected 20 years of experience in the fields of humanitarian and social issues. During these years, mindfulness and compassion  have been crucial sources of inspiration and resilience and I have been committed to their study and practice since 2003.
 
 In 2015 I completed the Teacher Training for „Mindful Self-Compassion“ (MSC), followed by  2 years of „Committed Practitioners Programme“ with Bodhi College (UK). 
 
