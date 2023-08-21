@@ -20,7 +20,7 @@ Neben dem akademischen und beruflichen Hintergrund, baue ich meine Training- und
 
 I was born in Germany in 1973 as a child of immigrant workers from former Yugoslavia. I visited high school in Croatia and got my M.A. degree in sociology of culture and philosophy at the University of Ljubljana (Slovenia).
 
-Regarding my professional path, I have collected 20 years of experience in the fields of humanitarian and social issues. During these years, mindfulness and compassion  have been crucial sources of inspiration and resilience and I have been committed to their study and practice since 2003.
+Regarding my professional path, I have collected 20 years of experience in the field of humanitarian and social issues. During these years, mindfulness and compassion  have been crucial sources of inspiration and resilience and I have been committed to their study and practice since 2003.
 
 In 2015 I completed the Teacher Training for „Mindful Self-Compassion“ (MSC), followed by  2 years of „Committed Practitioners Programme“ with Bodhi College (UK). 
 
