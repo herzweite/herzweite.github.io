@@ -21,7 +21,7 @@ Sooner or later everyone makes encounter with this fact, be it in private or pro
 
 We can strengthen our capacity not to be overwhelmed through these existential situations. We can train to open to them instead, to grow amidst them and therewith to deepen our confidence and joy of being alive. In this endeavor, mindfulness and compassion are of great help.
 
-If you feel like needing support in strenghtening these qualities, I would be glad to accompany you through coaching sessions, be it in presence if you live in Leipzig or online if you live somewhere else in Germany.
+If you feel like needing support in strenghtening these qualities, I would be glad to accompany you through coaching sessions, be it in presence if you live in area of Rosenheim or online if you live somewhere else in Germany.
 
 You can contact me through e-mail or phone-call. In the first conversation (free of charge) we examine together if coaching is the right thing for you at this moment.
 
