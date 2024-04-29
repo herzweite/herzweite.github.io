@@ -30,6 +30,7 @@ Die empfohlene Teilnehmerzahl ist maximal 8.
 
 REFERENZEN:
 
+- RoMed Fort- & Weiterbildung - Rosenheim
 - Gehörlosenzentrum Zwickau
 - SYNLAB Augsburg
 - Hospizverein Landshut
