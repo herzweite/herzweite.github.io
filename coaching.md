@@ -12,7 +12,7 @@ Falls Sie sich eher eine Einzelbegleitung statt Gruppentraining vorstellen könn
 
 Nehmen Sie Kontakt mit mir per E-Mail oder Handy auf. Das Erstgespräch, in dem wir gemeinsam der Frage nachgehen, ob Einzelcoaching für Sie hilfreich sein kann, ist kostenlos.
 
-Falls es danach zum Einzelcoaching kommen sollte, kostet eine Einzelstunde 60€.
+Falls es danach zum Einzelcoaching kommen sollte, kostet eine Einzelstunde (online) 60€.
 
 
 
