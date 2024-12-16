@@ -23,7 +23,7 @@ Der Inhouse-Kurs besteht aus insgesamt 6 wöchentlichen Einheiten à 90 Minuten 
 -	Austausch in Paaren/in der Gruppe sowie
 - Übungen für zu Hause.
 
-Die empfohlene Teilnehmerzahl ist maximal 8.
+Die empfohlene Teilnehmerzahl ist 10 Personen.
 
 
 
