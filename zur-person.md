@@ -7,7 +7,7 @@
 
 Ich bin 1973 in Deutschland geboren, als Kind von "Gastarbeitern" aus dem ehemaligen Jugoslawien. Die Grundschule und das Gymnasium habe ich in Kroatien besucht, danach habe ich in Slowenien an der Universität Ljubljana studiert. 
 
-Hauptberuflich bin ich über 20 Jahre im sozialen und humanitären Bereich tätig. Aktuell arbeite ich als Helfer in einer Hospizgemeinschaft. Im beruflichen sowie in privaten Leben sind mir Achtsamkeit und Mitgefühl wichtige Kraft- und Inspirationsquellen und mit deren Studium und Praxis beschäftige ich mich seit 2003. 
+Hauptberuflich bin ich über 20 Jahre im sozialen und humanitären Bereich tätig. Im beruflichen sowie in privaten Leben sind mir Achtsamkeit und Mitgefühl wichtige Kraft- und Inspirationsquellen und mit deren Studium und Praxis beschäftige ich mich seit 2003. 
 
 In 2014 und 2015 habe ich die Ausbildung zum MSC Lehrer (Mindful Self-Compassion, Trained Teacher) gemacht. In den Jahren danach habe ich das zweijährige "Committed Practitioners Programme" am Bodhi College absolviert.  
 
