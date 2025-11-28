@@ -30,6 +30,7 @@ Die empfohlene Teilnehmerzahl ist 10 Personen.
 
 REFERENZEN:
 
+- Jakobus Hospizverein e.V. - Rosenheim
 - RoMed Fort- & Weiterbildung - Rosenheim
 - Gehörlosenzentrum Zwickau
 - SYNLAB Augsburg
